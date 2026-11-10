@@ -7,7 +7,7 @@
 <p><b>12 岁 · 来自湖南平江 · 用 AI 把想法做成别人真的能用的东西</b></p>
 
 <p>
-<a href="https://youxiaopeng.com"><img src="https://img.shields.io/badge/我的像素小镇-youxiaopeng.com-2a2334?style=for-the-badge" alt="🏠 我的像素小镇-youxiaopeng.com" height="28"></a>
+<a href="https://youxiaopeng.com"><img src="https://img.shields.io/badge/我的像素小镇-youxiaopeng.com-2a2334?style=for-the-badge" alt="我的像素小镇-youxiaopeng.com" height="28"></a>
 <a href="https://space.bilibili.com/3546620234828428"><img src="https://img.shields.io/badge/B_站-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="B 站" height="28"></a>
 </p>
 

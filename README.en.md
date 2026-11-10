@@ -7,7 +7,7 @@
 <p><b>12 years old · from Pingjiang, China · I turn ideas into things people can actually use, with AI</b></p>
 
 <p>
-<a href="https://youxiaopeng.com"><img src="https://img.shields.io/badge/My_pixel_town-youxiaopeng.com-2a2334?style=for-the-badge" alt="🏠 My pixel town-youxiaopeng.com" height="28"></a>
+<a href="https://youxiaopeng.com"><img src="https://img.shields.io/badge/My_pixel_town-youxiaopeng.com-2a2334?style=for-the-badge" alt="My pixel town-youxiaopeng.com" height="28"></a>
 <a href="https://space.bilibili.com/3546620234828428"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" height="28"></a>
 </p>
 
