@@ -1,13 +1,13 @@
 <div align="center">
 
-<h1>Hi, I'm You Xiaopeng 👋</h1>
+<h1>Hi, I'm You Xiaopeng</h1>
 
 <p><a href="https://github.com/tacotacoqw/tacotacoqw">中文</a> · <b>English</b></p>
 
 <p><b>12 years old · from Pingjiang, China · I turn ideas into things people can actually use, with AI</b></p>
 
 <p>
-<a href="https://youxiaopeng.com"><img src="https://img.shields.io/badge/🏠_My_pixel_town-youxiaopeng.com-2a2334?style=for-the-badge" alt="🏠 My pixel town-youxiaopeng.com" height="28"></a>
+<a href="https://youxiaopeng.com"><img src="https://img.shields.io/badge/My_pixel_town-youxiaopeng.com-2a2334?style=for-the-badge" alt="🏠 My pixel town-youxiaopeng.com" height="28"></a>
 <a href="https://space.bilibili.com/3546620234828428"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili" height="28"></a>
 </p>
 
@@ -15,43 +15,43 @@
 
 <br>
 
-## 🚀 Featured projects
+<h2><img src="https://raw.githubusercontent.com/tacotacoqw/tacotacoqw/main/assets/star.svg" width="26" height="26" align="absmiddle" alt=""> Featured projects</h2>
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>💄 <a href="https://github.com/tacotacoqw/AIMakeupAssistant">Makeup for Your Eyes</a></h3>
+<h3><img src="https://raw.githubusercontent.com/tacotacoqw/tacotacoqw/main/assets/eye.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/tacotacoqw/AIMakeupAssistant">Makeup for Your Eyes</a></h3>
 <p>An iOS app that helps visually impaired people do their makeup on their own. I built the iOS side.</p>
-<p><img src="https://img.shields.io/badge/🥇_1st_prize_+_People%27s_Choice_·_MoonShot_Hackathon-FFD43B?style=flat-square" alt=""><br><sub>iOS · Swift</sub></p>
+<p><img src="https://img.shields.io/badge/1st_prize_+_People%27s_Choice_·_MoonShot_Hackathon-FFD43B?style=flat-square" alt=""><br><sub>iOS · Swift</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3>🛡️ <a href="https://github.com/tacotacoqw/pingfeng-privacy-guard">Pingfeng · Screen Privacy Guard</a></h3>
+<h3><img src="https://raw.githubusercontent.com/tacotacoqw/tacotacoqw/main/assets/shield.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/tacotacoqw/pingfeng-privacy-guard">Pingfeng · Screen Privacy Guard</a></h3>
 <p>On-device face recognition that warns you when a stranger stares at your screen and locks it when you are away.</p>
-<p><img src="https://img.shields.io/badge/🥈_2nd_prize_·_AI_Teenagers_camp-C9CCD2?style=flat-square" alt=""><br><sub>macOS / Windows · Electron</sub></p>
+<p><img src="https://img.shields.io/badge/2nd_prize_·_AI_Teenagers_camp-C9CCD2?style=flat-square" alt=""><br><sub>macOS / Windows · Electron</sub></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🥝 <a href="https://github.com/tacotacoqw/Kiwi">Kiwi</a></h3>
+<h3><img src="https://raw.githubusercontent.com/tacotacoqw/tacotacoqw/main/assets/kiwi.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/tacotacoqw/Kiwi">Kiwi</a></h3>
 <p>A desktop pet for macOS that reminds you to drink water and move, and keeps you company while AI writes code.</p>
-<p><img src="https://img.shields.io/badge/🥉_3rd_prize_·_AdventureX-E0A070?style=flat-square" alt=""><br><sub>macOS · Swift</sub></p>
+<p><img src="https://img.shields.io/badge/3rd_prize_·_AdventureX-E0A070?style=flat-square" alt=""><br><sub>macOS · Swift</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3>🛒 <a href="https://github.com/tacotacoqw/Mail">Smart Mall</a></h3>
+<h3><img src="https://raw.githubusercontent.com/tacotacoqw/tacotacoqw/main/assets/cart.svg" width="22" height="22" align="absmiddle" alt=""> <a href="https://github.com/tacotacoqw/Mail">Smart Mall</a></h3>
 <p>A place for classmates to show and trade what they make. My first hackathon project.</p>
-<p><img src="https://img.shields.io/badge/🥉_3rd_prize_·_Trae_Hackathon-E0A070?style=flat-square" alt=""><br><sub>Web</sub></p>
+<p><img src="https://img.shields.io/badge/3rd_prize_·_Trae_Hackathon-E0A070?style=flat-square" alt=""><br><sub>Web</sub></p>
 </td>
 </tr>
 </table>
 
-## 🎤 On stage
+<h2><img src="https://raw.githubusercontent.com/tacotacoqw/tacotacoqw/main/assets/mic.svg" width="26" height="26" align="absmiddle" alt=""> On stage</h2>
 
 | Stage | When | Talk |
 |---|---|---|
 | **TEDx Xiamen** | 2026.06 | *AI Means I Don’t Have to Wait* |
 | **BAAI Conference** | 2026.06 | *Makeup for Your Eyes: helping people who can’t see do their makeup* |
 
-## 🧰 What I use
+<h2><img src="https://raw.githubusercontent.com/tacotacoqw/tacotacoqw/main/assets/tools.svg" width="26" height="26" align="absmiddle" alt=""> What I use</h2>
 
 <div align="center">
 
