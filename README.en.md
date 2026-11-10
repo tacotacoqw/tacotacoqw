@@ -46,7 +46,7 @@
 
 ## 🎤 On stage
 
-| | | |
+| Stage | When | Talk |
 |---|---|---|
 | **TEDx Xiamen** | 2026.06 | *AI Means I Don’t Have to Wait* |
 | **BAAI Conference** | 2026.06 | *Makeup for Your Eyes: helping people who can’t see do their makeup* |
